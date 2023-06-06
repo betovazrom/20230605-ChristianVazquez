@@ -1,0 +1,5 @@
+1- mkdir
+2- touch
+3- cd
+4- rm
+5- git init
